@@ -1,24 +1,24 @@
 # 💫 About Me:
 Automation Test Engineer focused on building reliable, scalable, and efficient test automation solutions. I specialize in designing robust test frameworks, implementing CI/CD pipelines, and ensuring seamless software quality from development to deployment. My passion lies in optimizing testing processes and contributing to high-quality product deliveries.<br>Technical & Skill Focused:<br>Automation Test Engineer with hands-on experience in Selenium, Python, API testing, CI/CD integrations, and test framework development. I enjoy transforming manual efforts into automated solutions, improving coverage, and accelerating release cycles while maintaining top-tier quality standards.<br>
 
-[My Linkedin profile] www.linkedin.com/in/shreyasbh
+My Linkedin profile: www.linkedin.com/in/shreyasbh
 
 ### Tools :wrench:
-* [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - project management
-* [Confluence](https://www.atlassian.com/software/confluence) - storing informations and documents about project
-* [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) - bug tracking
-* [Slack](https://slack.com/) - communication within the team
-* [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - for better testing and improving bug reports
-* [Google Drive](https://www.google.com/intl/pl_pl/drive/) - storing data
-* [Git](https://git-scm.com/) - for better work in development team and controlling software versions
-* [GitHub](https://github.com/) - supporting Git and preparing my repositories
-* [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub
-* [Xampp](https://www.apachefriends.org/pl/index.html) - practicing SQL
-* [Postman](https://www.postman.com/) - API testing
-* [Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python
+* [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl/tour) - Project Management.
+* [Confluence](https://www.atlassian.com/software/confluence) - Storing Informations and Documents About Project.
+* [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) - Bug Tracking.
+* [Slack](https://slack.com/) - Communication within the Team.
+* [Chrome Devtools](https://developer.chrome.com/docs/devtools/) - For Better Testing and Improving Bug Reports.
+* [Google Drive](https://www.google.com/intl/pl_pl/drive/) - Storing Data.
+* [Git](https://git-scm.com/) - For better work in development team and controlling software versions.
+* [GitHub](https://github.com/) - Supporting Git and preparing my repositories.
+* [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - For better and easy formatting GitHub.
+* [Xampp](https://www.apachefriends.org/pl/index.html) - Practicing SQL.
+* [Postman](https://www.postman.com/) - API testing.
+* [Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python.
 * [Selenium](https://www.selenium.dev/)
 * [Robot framework](https://robotframework.org/)
-* [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML and CSS
+* [Visual Studio Code](https://code.visualstudio.com/) - Practicing HTML and CSS.
 * [Zephyr](https://www.atlassian.com/pl/devops/testing-tutorials/jira-zephyr-scale-testing)
 * [Kibana](https://www.elastic.co/kibana)
 * [TeamCity](https://www.jetbrains.com/teamcity/)
@@ -39,35 +39,35 @@ Automation Test Engineer focused on building reliable, scalable, and efficient t
 |  INSERT INTO                  |         !<           |    IS NOT NULL    |                                  |                       |         |
 |                               |         !>           |                   |                                  |                       |         |
 
-* Rest API testing
-* Knowledge about software development models (Waterfall,V model,Agile)
-* Creating Test Cases
-* Reporting Bugs
-* Creating bug reports
-* Python (https://www.python.org/) - For Test Automation
-* HTML and CSS
-* Creating Documentation
-* Performing Smoke Tests
-* Testing UAT
-* Scrum Workflow
+* Rest API testing.
+* Knowledge about software development models. (Waterfall,V model,Agile)
+* Creating Test Cases.
+* Reporting Bugs.
+* Creating bug reports.
+* Python (https://www.python.org/) - For Test Automation.
+* HTML and CSS.
+* Creating Documentation.
+* Performing Smoke Tests.
+* Testing UAT.
+* Scrum Workflow.
 
 ### Soft skills :file_folder:
-1. Analytical & Critical Thinking
+1. Analytical & Critical Thinking:
 * Ability to break complex systems into testable components.
 * Designing reliable edge cases, risk-based testing, and identifying root causes quickly.
 * Interpreting logs, CI failures, flaky test patterns, performance bottlenecks, etc.
-2. Ownership Mindset
+2. Ownership Mindset:
 * Not just executing tests owning automation pipelines, releases, environments, reporting, fixes.
 * Companies expect: “If it breaks in QA / Automation, they take charge until resolution.”
-3. Cross-Functional Communication
+3. Cross-Functional Communication:
 * Communicating clearly with Dev, Product, DevOps, Business.
 * Translating technical failures into business impact.
 * Presenting blockers early, documenting defects with impact + reproducibility.
-4. Leadership & Mentoring
+4. Leadership & Mentoring:
 * Guiding junior automation testers.
 * Reviewing test frameworks / code.
 * Setting standards for automation coverage, test reviews, CI/CD best practices.
-5. System Thinking
+5. System Thinking:
 Understanding the entire lifecycle:
 * Backend + Frontend interactions
 * Microservices
@@ -76,22 +76,22 @@ Understanding the entire lifecycle:
 * Databases
 * CI/CD flow
 Senior QA is expected to test at system boundaries not just UI.
-6. Test Strategy & Prioritization
+6. Test Strategy & Prioritization:
 * Selecting what to automate (and what NOT to).
 * Risk-based planning: "Which test gives the highest value with lowest maintenance?"
 * Avoiding script bloat, flaky tests, unnecessary UI automation.
-7. Problem-Solving Under Pressure
+7. Problem-Solving Under Pressure:
 * Handling production failures, CI pipeline breakdowns, flaky suites quickly.
 * Debugging: logs, stack traces, network calls, environment issues.
-8. Stakeholder Management
+8. Stakeholder Management:
 * Managing expectations during deadlines.
 * Explaining why automation time is needed to avoid tech debt.
 * Negotiating timelines with Product/Dev.
-9. Documentation & Reporting Clarity
+9. Documentation & Reporting Clarity:
 * Crisp test reports, failure summaries, RCA (root cause analysis).
 * Clear automation execution dashboards.
 * Useful logs, screenshots, tagging, artifacts not just pass/fail.
-10. Adaptability to Tools & Change
+10. Adaptability to Tools & Change:
 * Automation stacks change fast.
 
 ### Books :books:
